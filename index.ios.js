@@ -1,0 +1,3 @@
+
+
+AppRegistry.registerComponent('FMM', () => FMM);
